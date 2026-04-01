@@ -10,7 +10,7 @@ A structured machine learning project exploring multiple approaches to ECG signa
 ecg-imputation/
 │
 ├── notebook/
-│   └── phase123edited1.ipynb       # main notebook — all five phases
+│   └── GNNProjectCodeMain.ipynb       # main notebook — all five phases
 │
 ├── figures/                        # all generated plots and visualisations
 │   ├── augmentation_demo.png
